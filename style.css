@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>my own website</title>
+	<style type="text/css">
+		h1{
+			color: green;
+		}
+		h2{
+			color:#CFAACA;
+		}
+		h3{
+			color:#0D2A8C;
+		}
+		h4{
+			color:#DEE512;
+		}
+		h5{
+			color:#4F9F79;
+		}
+		
+	</style>
+
+</head>
+<body>
+	<h1>TOPIC</h1>
+	<h2>TOPIC</h2>
+	<h3>TOPIC</h3>
+	<h4>TOPIC</h4>
+	<h5>TOPIC</h5>
+	<h6>TOPIC</h6>
+</body>
+</html>
